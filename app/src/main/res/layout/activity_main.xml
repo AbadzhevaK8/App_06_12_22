@@ -42,7 +42,8 @@
             android:layout_marginTop="600dp"
             android:text="@string/subtitle"
             android:textColor="@android:color/white"
-            android:textSize="26sp" />
+            android:textSize="26sp"
+            tools:ignore="RelativeOverlap" />
 
     </RelativeLayout>
 
